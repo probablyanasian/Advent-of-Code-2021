@@ -13,5 +13,6 @@ with open('D2_input.txt', 'r') as fopen:
 			aim += val
 		if cmd == 'up':
 			aim -= val
+			
 print(horiz, depth)
 print(horiz*depth)

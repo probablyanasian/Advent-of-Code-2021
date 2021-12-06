@@ -23,4 +23,3 @@ for val in ctr:
 print(gamma, int(gamma, 2))
 print(epsilon, int(epsilon, 2))
 print(int(gamma, 2)*int(epsilon, 2))
-
